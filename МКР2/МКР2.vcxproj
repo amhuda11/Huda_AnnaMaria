@@ -130,6 +130,7 @@
     <ClCompile Include="МКР2.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <Text Include="TASK2.txt" />
     <Text Include="Text.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
