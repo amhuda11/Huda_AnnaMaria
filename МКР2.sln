@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "МКР2", "МКР2\МКР2.vcxproj", "{25833F7A-71EF-4B5A-9684-074DCE90A61D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25833F7A-71EF-4B5A-9684-074DCE90A61D}.Debug|x64.ActiveCfg = Debug|x64
+		{25833F7A-71EF-4B5A-9684-074DCE90A61D}.Debug|x64.Build.0 = Debug|x64
+		{25833F7A-71EF-4B5A-9684-074DCE90A61D}.Debug|x86.ActiveCfg = Debug|Win32
+		{25833F7A-71EF-4B5A-9684-074DCE90A61D}.Debug|x86.Build.0 = Debug|Win32
+		{25833F7A-71EF-4B5A-9684-074DCE90A61D}.Release|x64.ActiveCfg = Release|x64
+		{25833F7A-71EF-4B5A-9684-074DCE90A61D}.Release|x64.Build.0 = Release|x64
+		{25833F7A-71EF-4B5A-9684-074DCE90A61D}.Release|x86.ActiveCfg = Release|Win32
+		{25833F7A-71EF-4B5A-9684-074DCE90A61D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3854233-A918-4343-B2EB-09AD56E4D7C1}
+	EndGlobalSection
+EndGlobal
